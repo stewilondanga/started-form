@@ -120,11 +120,11 @@ label.active .req {
   opacity: 0;
 }
 
-/*label.highlight {
+label.highlight {
   color: #ffffff;
 }
 
-input, textarea {
+/*input, textarea {
   font-size: 22px;
   display: block;
   width: 100%;
