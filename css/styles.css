@@ -116,11 +116,11 @@ label.active {
   font-size: 14px;
 }
 
-/*label.active .req {
+label.active .req {
   opacity: 0;
 }
 
-label.highlight {
+/*label.highlight {
   color: #ffffff;
 }
 
