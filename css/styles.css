@@ -36,7 +36,7 @@ a:hover {
   color: #179b77;
 }
 
-/*.form {
+.form {
   background: rgba(19, 35, 47, 0.9);
   padding: 40px;
   max-width: 600px;
@@ -45,7 +45,7 @@ a:hover {
   box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
 }
 
-.tab-group {
+/*.tab-group {
   list-style: none;
   padding: 0;
   margin: 0 0 40px 0;
