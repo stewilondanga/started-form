@@ -148,12 +148,12 @@ textarea {
   resize: vertical;
 }
 
-/*.field-wrap {
+.field-wrap {
   position: relative;
   margin-bottom: 40px;
 }
 
-.top-row:after {
+/*.top-row:after {
   content: "";
   display: table;
   clear: both;
