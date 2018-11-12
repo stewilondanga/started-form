@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+html {
+  overflow-y: scroll;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -25,9 +29,6 @@
   height: 1.5em;
 }
 
-html {
-  overflow-y: scroll;
-}
 
 body {
   background: #c1bdba;
