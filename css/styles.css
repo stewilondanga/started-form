@@ -153,12 +153,13 @@ textarea {
   margin-bottom: 40px;
 }
 
-/*.top-row:after {
+.top-row:after {
   content: "";
   display: table;
   clear: both;
 }
-.top-row > div {
+
+/*.top-row > div {
   float: left;
   width: 48%;
   margin-right: 4%;
