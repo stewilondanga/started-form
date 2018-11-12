@@ -165,11 +165,11 @@ textarea {
   margin-right: 4%;
 }
 
-/*.top-row > div:last-child {
+.top-row>div:last-child {
   margin: 0;
 }
 
-.button {
+/*.button {
   border: 0;
   outline: none;
   border-radius: 0;
