@@ -6,6 +6,11 @@ html {
   overflow-y: scroll;
 }
 
+body {
+  background: #c1bdba;
+  font-family: 'Titillium Web', sans-serif;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -30,10 +35,6 @@ html {
 }
 
 
-body {
-  background: #c1bdba;
-  font-family: 'Titillium Web', sans-serif;
-}
 
 a {
   text-decoration: none;
