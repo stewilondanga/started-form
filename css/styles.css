@@ -85,14 +85,14 @@ a:hover {
   display: none;
 }
 
-/*h1 {
+h1 {
   text-align: center;
   color: #ffffff;
   font-weight: 300;
   margin: 0 0 40px;
 }
 
-label {
+/*label {
   position: absolute;
   -webkit-transform: translateY(6px);
           transform: translateY(6px);
