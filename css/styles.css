@@ -92,10 +92,10 @@ h1 {
   margin: 0 0 40px;
 }
 
-/*label {
+label {
   position: absolute;
   -webkit-transform: translateY(6px);
-          transform: translateY(6px);
+  transform: translateY(6px);
   left: 13px;
   color: rgba(255, 255, 255, 0.5);
   transition: all 0.25s ease;
@@ -103,7 +103,8 @@ h1 {
   pointer-events: none;
   font-size: 22px;
 }
-label .req {
+
+/*label .req {
   margin: 2px;
   color: #1ab188;
 }
