@@ -51,12 +51,13 @@ a:hover {
   margin: 0 0 40px 0;
 }
 
-/*.tab-group:after {
+.tab-group:after {
   content: "";
   display: table;
   clear: both;
 }
-.tab-group li a {
+
+/*.tab-group li a {
   display: block;
   text-decoration: none;
   padding: 15px;
