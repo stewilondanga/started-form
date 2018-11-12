@@ -143,12 +143,12 @@ input:focus, textarea:focus {
   border-color: #1ab188;
 }
 
-/*textarea {
+textarea {
   border: 2px solid #a0b3b0;
   resize: vertical;
 }
 
-.field-wrap {
+/*.field-wrap {
   position: relative;
   margin-bottom: 40px;
 }
