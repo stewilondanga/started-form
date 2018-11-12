@@ -44,8 +44,8 @@ $('.tab a').on('click', function(e) {
 
       target = $(this).attr('href');
 
-      /*                $('.tab-content > div').not(target).hide();
+      $('.tab-content > div').not(target).hide();
 
-                      $(target).fadeIn(600);
+      /*                $(target).fadeIn(600);
 
                     });
