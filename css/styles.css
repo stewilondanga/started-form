@@ -159,12 +159,13 @@ textarea {
   clear: both;
 }
 
-/*.top-row > div {
+.top-row>div {
   float: left;
   width: 48%;
   margin-right: 4%;
 }
-.top-row > div:last-child {
+
+/*.top-row > div:last-child {
   margin: 0;
 }
 
