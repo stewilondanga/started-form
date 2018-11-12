@@ -76,12 +76,12 @@ a:hover {
   color: #ffffff;
 }
 
-/*.tab-group .active a {
+.tab-group .active a {
   background: #1ab188;
   color: #ffffff;
 }
 
-.tab-content > div:last-child {
+/*.tab-content > div:last-child {
   display: none;
 }
 
